@@ -1,0 +1,6 @@
+message: 此条消息来自于cofig server11111111111111111111111111111
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
