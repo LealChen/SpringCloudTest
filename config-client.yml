@@ -1,6 +1,4 @@
-message: 此条消息来自于cofig server11111111111111111111111111111ssssssss
-management:
-  endpoints:
+message: 此条消息来自于cofig server
     web:
       exposure:
         include: "*"
