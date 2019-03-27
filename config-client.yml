@@ -39,7 +39,7 @@ mybatis:
   #:映射文件位置
   mapper-locations: classpath:mapper/*.xml
   #：别名扫描包
-  type-aliases-package: com.card
+  type-aliases-package: com.card.mapper
   #：输出SQL执行语句
   configuration:
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
