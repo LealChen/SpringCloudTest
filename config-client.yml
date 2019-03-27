@@ -54,7 +54,7 @@ pagehelper:
 
 logging:
   level:
-    com.card.mapper: debug
+    com.card: debug
 #  file: ./logs/wristband.log
   path: D:/logs
 
