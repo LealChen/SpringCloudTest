@@ -49,6 +49,7 @@ mybatis:
 #    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
 
 
+
 #pagehelper
 pagehelper:
     helperDialect: mysql
