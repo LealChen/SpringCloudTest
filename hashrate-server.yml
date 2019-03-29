@@ -9,7 +9,7 @@ spring:
           filters: stat
           driver-class-name: com.mysql.jdbc.Driver
           #基本属性
-          url: jdbc:mysql://mysql.hashrate.me:3306/hashrate?useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true&serverTimezone=GMT
+          url: jdbc:mysql://mysql.hashrate.me:3306/mozi?useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true&serverTimezone=GMT
           username: root
           password: Mz18!@#qwer
           #配置初始化大小/最小/最大
