@@ -1,4 +1,3 @@
-message: 此条消息来自于cofig servecccc
 spring:
     datasource:
         name: hashrate
